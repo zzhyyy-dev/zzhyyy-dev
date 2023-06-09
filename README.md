@@ -2,7 +2,7 @@
 <p align="left"> 
 
 - 🔭 Software Engineering at [FIAP][fiap]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning front end development and blockchain development
 - 👯 I’m looking to collaborate with other content creators
 
 ### My skills:
