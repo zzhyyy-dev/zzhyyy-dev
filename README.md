@@ -24,9 +24,7 @@
 
 #### 🏗 IDEs
 ![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-1880C6?style=flat&logoColor=white&logo=visual-studio)
-![Oracle SQL Developer](https://img.shields.io/badge/-Oracle_SQL_Developer-95AFCB?style=flat&logoColor=white&logo=oracle) 
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37726?style=flat&logoColor=white&logo=jupyter) 
-![PyCharm](https://img.shields.io/badge/-PyCharm-20D68B?style=flat&logoColor=white&logo=pycharm) 
+
 
 <br />
 <br />
