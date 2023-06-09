@@ -1,4 +1,4 @@
-### Hi there, I'm Lucas 👋
+### Hi there, I'm Gustavo Lopes 👋
 <p align="left"> 
 
 - 🔭 Software Engineering at [FIAP][fiap]!
