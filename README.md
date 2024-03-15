@@ -1,9 +1,9 @@
 ### Hi there, I'm Gustavo Lopes 👋
 <p align="left"> 
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@zzhyyy/)
+  
 - 🔭 Software Engineering at [FIAP][fiap]!
 - 🌱 I’m currently focus on front end development, interested at blockchain development, studying backend
-
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@zzhyyy/)
 ### My skills:
   - Beginner: <br/><br/>
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
