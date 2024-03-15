@@ -1,7 +1,7 @@
 ### Hi there, I'm Gustavo Lopes 👋
 <p align="left"> 
 
-- languages: pt-br,en,es e it  
+- languages: pt-br, en, es e it  
 - 🔭 Software Engineering at [FIAP][fiap]!
 - 🌱 I’m currently focus on front end development, interested at blockchain development, studying backend
 
