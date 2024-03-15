@@ -4,7 +4,9 @@
 - 🔭 Software Engineering at [FIAP][fiap]!
 - 🌱 I’m currently focus on front end development, interested at blockchain development, studying backend
 
-- Contatos: 
+- Contatos:
+<br/>
+
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@zzhyyy/)
 <br/>
 
