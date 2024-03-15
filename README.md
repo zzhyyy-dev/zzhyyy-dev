@@ -20,11 +20,12 @@
 
 #### 🛠 Tools
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-dc5400?style=flat&logoColor=white&logo=microsoft-office) 
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logoColor=white&logo=git) 
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
 #### 🏗 IDEs
-![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-1880C6?style=flat&logoColor=white&logo=visual-studio)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 <br />
