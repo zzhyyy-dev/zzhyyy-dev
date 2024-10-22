@@ -28,7 +28,7 @@
     ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
     ![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-    ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=000000)
+    ![Bootstrap](https://img.shields.io/badge/-boostrap-000000?style=for-the-badge&logo=bootstrap&labelColor=000000)
 
 
 #### 🛠 Tools
