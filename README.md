@@ -32,7 +32,7 @@
 
 
 #### 🛠 Tools
-![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-dc5400?style=flat&logoColor=white&logo=microsoft-office) 
+![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-dc5400?&style=for-the-badge&logoColor=white&logo=microsoft-office) 
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
