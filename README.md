@@ -38,7 +38,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-F80000?style=for-the-badge&logo=Linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-F7000?style=for-the-badge&logo=Linux&logoColor=white)
 
 <br />
 <br />
