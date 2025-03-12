@@ -21,11 +21,7 @@
     ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
     ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-    
-  
   - Mid-Level:<br/><br/>
-    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
     ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
     ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
     ![SQL](https://img.shields.io/badge/-SQL-0f0660?&logo=MySQL&logoColor=4479A1&style=for-the-badge)
@@ -33,6 +29,9 @@
     ![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
     ![Bootstrap](https://img.shields.io/badge/-boostrap-000000?style=for-the-badge&logo=bootstrap&labelColor=000000)
 
+  - Advance-Level: <br/><br/>
+    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 🛠 Tools
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-dc5400?&style=for-the-badge&logoColor=white&logo=Microsoft-office) 
