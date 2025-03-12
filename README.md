@@ -3,7 +3,6 @@
 
 - languages: pt-br, en, es e it  
 - 🔭 Software Engineering at [FIAP][fiap]!
-- 🌱 I’m currently a front end development, interested at blockchain development, studying backend
 
 - Contatos:
 
