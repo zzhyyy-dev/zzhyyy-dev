@@ -43,6 +43,7 @@
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=Windows&logoColor=2CA5E0)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-ff4660?style=for-the-badge&logo=Linux&logoColor=000000&textColor=000000)
+[![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai)
 
 <br />
 <br />
